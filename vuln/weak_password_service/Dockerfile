@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:bullseye
 MAINTAINER leveryd@gmail.com
 RUN sed -i 's/deb.debian.org/mirrors.aliyun.com/g' /etc/apt/sources.list
 
