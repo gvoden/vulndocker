@@ -29,7 +29,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.24</version>
+            <version>1.2.83_noneautotype</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
